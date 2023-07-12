@@ -1,11 +1,13 @@
 # Project-1
-This is our repository for project 1
 
 /// Project Title - RIDE SHARE COMPARISON, UBER v LYFT
 
+
 /// Team Members - Shingvi Prachi // Maryam Najiarani // Sundar Nivetha // Calvin Kleber // Mike Strati // Pratik Deshmane
 
+
 /// Project Description/Outline - we will compare WEATHER, LOCATION, TIME OF DAY, and DESTINATION as it relates to UBER versus LYFT
+
 
 /// Research Questions to Answer - 
 
@@ -19,6 +21,7 @@ This is our repository for project 1
 
 5 - Surge Multiplier relationship to Type of Car
 
+
 /// Datasets to be Used -
 
 ( *** note: LINK 1 & LINK 2 share Data, TIMESTAMP is the KEY between the 2 DataSets *** )
@@ -26,6 +29,7 @@ This is our repository for project 1
 + LINK 2: UBER v LYFT - BOSTON - https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma  
 
 ( [ NULL / DISREGARD ] BACKUP LINK 1: ADIDAS vs NIKE - https://apitracker.io/a/nike )
+
 
 /// Rough Breakdown of Tasks -
 + No Task Breakdown yet...first priority is MERGE & CLEAN Datasets into 1 CSV using TIMESTAMP as the KEY
