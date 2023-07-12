@@ -8,10 +8,15 @@ This is our repository for project 1
 /// Project Description/Outline - we will compare WEATHER, LOCATION, TIME OF DAY, and DESTINATION as it relates to UBER versus LYFT
 
 /// Research Questions to Answer - 
+
 1 - Weather relationship to Ride Time ?
+
 2 - Distance relationship to Car Type
+
 3 - Frequency of Rides relationship Days of the Week
+
 4 - Price Surge Trends
+
 5 - Surge Multiplier relationship to Type of Car
 
 /// Datasets to be Used -
