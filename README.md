@@ -25,7 +25,7 @@ This is our repository for project 1
 + LINK 1: UBER vs LYFT - https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices 
 + LINK 2: UBER v LYFT - BOSTON - https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma  
 
-( [ NULL ] BACKUP LINK 1: ADIDAS vs NIKE - https://apitracker.io/a/nike )
+( [ NULL / DISREGARD ] BACKUP LINK 1: ADIDAS vs NIKE - https://apitracker.io/a/nike )
 
 /// Rough Breakdown of Tasks -
 + No Task Breakdown yet...first priority is MERGE & CLEAN Datasets into 1 CSV using TIMESTAMP as the KEY
