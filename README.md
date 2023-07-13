@@ -1,15 +1,21 @@
 # Project-1
 
-/// Project Title - RIDE SHARE COMPARISON, UBER v LYFT
+## Project Title - RIDE SHARE COMPARISON, UBER v LYFT
 
 
-/// Team Members - Shingvi Prachi // Maryam Najiarani // Sundar Nivetha // Calvin Kleber // Mike Strati // Pratik Deshmane
+### Team Members 
+- Shingvi Prachi
+- Maryam Najiarani
+- Nivetha Sundar
+- Calvin Kleber
+- Mike Strati
+- Pratik Deshmane
+
+### Project Description/Outline 
+Uber and Lyft's ride prices are not constant like public transport. They are greatly affected by the demand and supply of rides at a given time. Our analysis aims to understand the relationships of rideshare pricing when compared against external factors like time of day, day of the week and possibly even weather. The dataset we are analyzing covers simulated rides between a few hot locations in Boston, MA taken in the span of about a week in Nov/Dec of 2018.
 
 
-/// Project Description/Outline - we will compare WEATHER, LOCATION, TIME OF DAY, and DESTINATION as it relates to UBER versus LYFT
-
-
-/// Research Questions to Answer - 
+### Research Questions to Answer - 
 
 1 - Weather relationship to Ride Time ?
 
@@ -22,14 +28,13 @@
 5 - Surge Multiplier relationship to Type of Car
 
 
-/// Datasets to be Used -
+### Datasets to be Used -
 
-( *** note: LINK 1 & LINK 2 share Data, TIMESTAMP is the KEY between the 2 DataSets *** )
-+ LINK 1: UBER vs LYFT - https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices 
-+ LINK 2: UBER v LYFT - BOSTON - https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma  
+#### Link to Datasets
+(Uber vs Lyft Cab Prices)[https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices] contains two csv files,
+- cab-rides.csv
+- weather.csv
 
-( [ NULL / DISREGARD ] BACKUP LINK 1: ADIDAS vs NIKE - https://apitracker.io/a/nike )
-
-
-/// Rough Breakdown of Tasks -
-+ No Task Breakdown yet...first priority is MERGE & CLEAN Datasets into 1 CSV using TIMESTAMP as the KEY
+### Rough Breakdown of Tasks -
+- Merge & Clean dataset. Tentative key - Timestamp data (originally listed in epoch datetime formatting)
+- pending tasks...
