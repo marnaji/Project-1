@@ -27,7 +27,17 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 5 - Surge Multiplier relationship to Type of Car
 
+### car ride analysis 
+1- Percentage of uber vs lyft
+2- Number uber ride vs distance range
+3- Number lyft ride vs distance range
+4- Surge_Multiplier 
+5- 
 
+### car ride vs wheater anlysis 
+1- how rain fall affects rides?
+2- how cloud affects rides?
+3-  
 ### Datasets to be Used -
 
 #### Link to Datasets
