@@ -41,7 +41,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 **Maryam's Analysis:** I used heatmap to perform these analysis.
     * Revenue has the highest correlation with Rainfall, and revenue will change based on different weather conditions. 
     * The distance has the negative effect on revenue. The best strategy to increase revenue is to focuse on more short distance rides,because the bulk of the price comes from the initial charges on each ride per day.  
-<img src="/Images/RevenueHeatmap.png" width="350" ">
+<img src="/Images/RevenueHeatmap.png" width="350">
 
 ### Datasets to be Used -
 ***
@@ -50,16 +50,16 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 **Maryam's Analysis:**
     Lyft has higher price on avaerage (17.34 vs.13.55 )and the Standard deviation is higher (10.02 vs. 9.66). Lyft max price is 92.0 and the min price is 2.5. Uber max price is 89.5 and the min price is 0.0.
 
-<img src="/Images/IQR.png" width="350" ">  
-<img src="/Images/summaryStatistic ofPrice.png" width="350" ">
+<img src="/Images/IQR.png" width="350" >  
+<img src="/Images/summaryStatistic ofPrice.png" width="350" >
 
 ### Study the relationship between price and the distance
 ***
 **Maryam's Analysis:**
 Lyft charges more for based rides compare to Uber (10.05 vs. 9.50) and charges more for each additional miles compare to Uber (3.38 vs. 1.93).
 
-<img src="/Images/LyftLinearReg.png" width="350" "> 
-<img src="/Images/UberLiearReg.png" width="350" ">
+<img src="/Images/LyftLinearReg.png" width="350" > 
+<img src="/Images/UberLiearReg.png" width="350" >
 
 ### Hypothesis Testing (Comparison of Distance vs. Price for Each ride): 
 ***
