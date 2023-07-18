@@ -44,7 +44,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 <img src="/Images/RevenueHeatmap.png" width="350" ">
 
 ### Datasets to be Used -
-
+***
 ### Price IQR, Outliers, and Summary statitics : 
 ***
 **Maryam's Analysis:**
@@ -54,8 +54,9 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 <img src="/Images/summaryStatistic ofPrice.png" width="350" ">
 
 ### Study the relationship between price and the distance
+***
 **Maryam's Analysis:**
-         Lyft charges more for based rides compare to Uber (10.05 vs. 9.50) and charges more for each additional miles compare to Uber (3.38 vs. 1.93).
+Lyft charges more for based rides compare to Uber (10.05 vs. 9.50) and charges more for each additional miles compare to Uber (3.38 vs. 1.93).
 
 <img src="/Images/LyftLinearReg.png" width="350" "> 
 <img src="/Images/UberLiearReg.png" width="350" ">
