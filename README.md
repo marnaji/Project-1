@@ -17,9 +17,9 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 ### Research Questions to Answer - 
 
-1 - Weather relationship to Ride Time ?
+1 - Weather relationship to Rides
 
-2 - Distance relationship to Car Type
+2 - Distance relationship to Price 
 
 3 - Frequency of Rides relationship Days of the Week
 
@@ -28,17 +28,45 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 5 - Surge Multiplier relationship to Type of Car
 
 ### car ride analysis 
-1- Percentage of uber vs lyft
+1- Percentage of uber vs lyft:
+    The data includes 55.8% of Uber rides and 44.2% of Lyft rides. 
 2- Number uber ride vs distance range
 3- Number lyft ride vs distance range
 4- Surge_Multiplier 
 5- 
 
 ### car ride vs wheater anlysis 
-1- how rain fall affects rides?
+1- how rain fall affects rides?  
 2- how cloud affects rides?
-3-  
+
+
+3-  How revenue will be effected by weather conditions? And Does Distance effect revenue ?
+    Maryam's Analysis: I used heatmap to perform these analysis.
+    Revenue has the highest correlation with Rainfall, and over all different weather conditions will increase revenue. 
+    The distance has the negative effect on revenue. The best strategy to increase revenue is to focuse on more short distance rides,because the bulk of the price comes from the initial charge on each ride per day.  
+     <img src="/Images/RevenueHeatmap.png" width="350" ">
+
 ### Datasets to be Used -
+
+### Price IQR, Outliers, and Sumarry statitics : 
+    Maryam's Analysis:
+    Lyft has higher price on avaerage (17.34 vs.13.55 )and the Standard deviation is higher (10.02 vs. 9.66). Lyft max price is 92.0 and the min price is 2.5. Uber max price is 89.5 and the min price is 0.0.
+<img src="/Images/IQR.png" width="350" ">                            <img src="/Images/summaryStatistic ofPrice.png" width="350" ">
+
+### Study the relationship between price and the distance
+    Maryam's Analysis:
+         Lyft charges more for based rides compare to Uber (10.05 vs. 9.50) and charges more for each additional miles compare to Uber (3.38 vs. 1.93)    
+<img src="/Images/LyftLinearReg.png" width="350" ">                    <img src="/Images/UberLiearReg.png" width="350" ">
+
+### Hypothesis Testing (Comparison of Distance vs. Price for Each ride): 
+The problem: How do we know if Distance would effect the price charges on each app? 
+The solution: ANOVA - Does Distance not effect the price that each ride charges?
+    Maryam's Analysis:
+    Uber :
+    Uber includes more rides, and has the p-Value of pvalue=1.1480829994832444e-127 which is a very small number. So, the null hypothesis that Distance would not have effect on the Price can be rejected.
+    Lyft :
+    Lyft includes less rides, and had the pvalue=4.858273627090331e-168 which will also reject the null hypohesis that Distance would not have an affect on Price.
+
 
 #### Link to Datasets
 (Uber vs Lyft Cab Prices)[https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices] contains two csv files,
