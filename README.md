@@ -23,7 +23,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 3. How is Price & Revenue affected by Distance Travelled/Weather?
 4. Deep Dive on Surge Effectiveness in ride revenue
 5. Statistical Analysis of Combined Weather: Ride Relationships
-6. Final Summary (? Write Up)
+6. Final Summary (? Write-Up)
 
 #### General Behavior of Car Ride Frequency
 - Percentage Distribution against Uber & Lyft
