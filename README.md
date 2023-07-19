@@ -17,27 +17,40 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 ### Research Questions to Answer - 
 
-1 - Weather relationship to Ride Time ?
+***
+1. General Behavior of Car Ride Frequency
+2. How are Car Rides affected by different Weather Conditions?
+3. How is Price & Revenue affected by Distance Travelled/Weather?
+4. Deep Dive on Surge Effectiveness in ride revenue
+5. Statistical Analysis of Combined Weather: Ride Relationships
+6. Final Summary (? Write Up)
 
-2 - Distance relationship to Car Type
+#### General Behavior of Car Ride Frequency
+- Percentage Distribution against Uber & Lyft
+- Preferred Distance Travelled by each App
+- Average Rate of Rides on a given day of the week
+- Preference of Ride Type
 
-3 - Frequency of Rides relationship Days of the Week
+#### How are Car Rides affected by different Weather Conditions?
+- Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
+- 
 
-4 - Price Surge Trends
+#### How is Price & Revenue affected by Distance Travelled/Weather?
+- Relationships between Ride Type and Destination (Boston University & Northeastern University)
+- 
 
-5 - Surge Multiplier relationship to Type of Car
+#### Deep Dive on Surge Effectiveness in ride revenue
+- Max Surge depending on the Day of the Week
+- Time Series showing the frequency of Surge throughout the day
+- 
 
-### car ride analysis 
-1- Percentage of uber vs lyft
-2- Number uber ride vs distance range
-3- Number lyft ride vs distance range
-4- Surge_Multiplier 
-5- 
+#### Statistical Analysis of Combined Weather: Ride Relationships
+- Heat map
+- Summary statistics of Ride relationships with pricing (IQR, Outliers, Quartiles)
+- ANOVA Testing
 
-### car ride vs wheater anlysis 
-1- how rain fall affects rides?
-2- how cloud affects rides?
-3-  
+***
+
 ### Datasets to be Used -
 
 #### Link to Datasets
