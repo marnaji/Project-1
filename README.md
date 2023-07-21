@@ -31,7 +31,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Preferred Distance Travelled by each App
 - Average Rate of Rides on a given day of the week
 - Preference of Ride Type
-
+<img src="/Images/2_1.png" width="350" > <img src="/Images/2_2.png" width="350" >
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
   
@@ -40,6 +40,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Summary statistics of price relationship with Lyft and Uber
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
+<img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
   
 #### Deep Dive on Surge Effectiveness in ride revenue
 - Max Surge depending on the Day of the Week
@@ -52,16 +53,22 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - ANOVA Testing
 
 ***
-<img src="/Images/IQR.png" width="350" > <img src="/Images/summaryStatistic ofPrice.png" width="350" >
+<img src="/Images/RevenueVsWeather" width="350" > <img src="/Images/PriceVsWeather.png" width="350" >
 
 ### Study the relationship between price and the distance
 
-<img src="/Images/LyftLinearReg.png" width="350" > <img src="/Images/UberLiearReg.png" width="350" >
+
 
 ### Calvin's Analysis/Write-up
 When extracting the data and merging the data frames we found that Uber has more rides than Lyft.  
 People have a tendency to travel short distances with Uber and Lyft because majority rides between both apps tend to fit between the ranges of 0 miles to 4 miles. 
 It is rare to have the rides be beyond 4 miles. Although Uber has about 11 percent more rides, Lyft generates more revenue. This is most likely due to Lyft charging more per ride.
+
+### Maryam's Analysis/WriteUp
+On average, Lyft's prices are higher, with fares amounting to $17.34 compared to Uber's $13.55. Additionally, Lyft initiates rides at a higher base charge of $10.05, whereas Uber starts at $9.50. Moreover, Lyft imposes higher additional charges per mile, with a rate of $3.38, while Uber charges a lower rate of $1.93 per mile. Despite these differences, the average prices for both apps throughout the week exhibit relative stability, showing minimal fluctuations across different days.
+
+The analysis reveals that rainfall shows the most robust correlation with revenue, indicating that weather conditions have a positive impact on revenue. Conversely, distance exhibits a negative effect on revenue, suggesting that shorter distance rides could be a more effective strategy to increase overall revenue.
+
 
 
 #### Link to Datasets
@@ -69,7 +76,6 @@ It is rare to have the rides be beyond 4 miles. Although Uber has about 11 perce
 (Uber vs Lyft Cab Prices)[https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices] contains two csv files,
 - cab-rides.csv
 - weather.csv
+ -image one : https://blog.shift.com/best-cars-uber-lyft/
+ 
 
-### Rough Breakdown of Tasks -
-- Merge & Clean dataset. Tentative key - Timestamp data (originally listed in epoch datetime formatting)
-- pending tasks...
