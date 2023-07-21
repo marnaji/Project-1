@@ -36,7 +36,8 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
   
-
+<img src="/Images/3_1.png" width="300" > <img src="/Images/3_2.png" width="300" > 
+<img src="/Images/3_3.png" width="300" > <img src="/Images/3_4.png" width="300" >
 #### How is Price & Revenue affected by Distance Travelled/Weather? 
 - Summary statistics of price relationship with Lyft and Uber
 - Mean price Vs. Day of the week
@@ -57,7 +58,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 ***
 <img src="/Images/RevenueVsWeather.png" width="350" > <img src="/Images/PriceVsWeather.png" width="350" >
 
-
+# Final Summary 
 
 ### Calvin's Analysis/Write-up
 When extracting the data and merging the data frames we found that Uber has more rides than Lyft.  
