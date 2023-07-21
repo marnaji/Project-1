@@ -1,6 +1,7 @@
 # Project-1
+<img src="/Images/uberLyft.png" width="350" >
 
-## Project Title - RIDE SHARE COMPARISON, UBER v LYFT
+## Project Title - RIDE SHARE COMPARISON, UBER v LYFT 
 
 ### Team Members 
 * Shingvi Prachi
@@ -33,7 +34,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
-- 
+  
 
 #### How is Price & Revenue affected by Distance Travelled/Weather? 
 - Summary statistics of price relationship with Lyft and Uber
