@@ -74,6 +74,10 @@ On average, Lyft's prices are higher, with fares amounting to $17.34 compared to
 
 The analysis reveals that rainfall shows the most robust correlation with revenue, indicating that weather conditions have a positive impact on revenue. Conversely, distance exhibits a negative effect on revenue, suggesting that shorter distance rides could be a more effective strategy to increase overall revenue.
 
+#### Mike Analysis // Writeup
+
+When comparing: RIDE TYPE COUNTS OVERALL, TOTAL REVENUE by RIDE TYPE, MEAN REVENUE PER MILE by RIDE TYPE we notice interesting divergence in the trends. For instance, Lux Black XL is 10th in Ride Type Counts at 18579, but is 1st in Revenue per Mile at $14.82 per mile. On the other side of the coin, Lux Black is 13th in Ride Type Counts at 18458, but is 3rd in Revenue per Mile at $10.57 per mile. Also divergent, Uber XL is 1st in Ride Type Counts at 20197, but is 6th in Revenue per Mile at $7.16 per mile. As such, the difference between Ride Type Counts, Total Revenue by Ride Type, and Revenue per mile.
+
 
 
 #### Link to Datasets
