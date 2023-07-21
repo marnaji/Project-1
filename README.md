@@ -53,6 +53,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Average of surge multiplier based on the day of the week 
 
 <img src="/Images/4_5.png" width="350" >
+
 #### Statistical Analysis of Combined Weather: Ride Relationships
 - Heat map
 - Summary statistics of Ride relationships with pricing (IQR, Outliers, Quartiles)
@@ -80,6 +81,6 @@ The analysis reveals that rainfall shows the most robust correlation with revenu
 (Uber vs Lyft Cab Prices)[https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices] contains two csv files,
 - cab-rides.csv
 - weather.csv
- -image one : https://blog.shift.com/best-cars-uber-lyft/
+image one : https://blog.shift.com/best-cars-uber-lyft/
  
 
