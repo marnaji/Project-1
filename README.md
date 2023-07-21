@@ -43,6 +43,8 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
 
+
+<img src="/Images/5_Price($)_Pick_Up_Location.png" width="350" > <img src="/Images/5_Price($)_Destination.png" width="350" >
 <img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
   
 #### Deep Dive on Surge Effectiveness in ride revenue
@@ -50,6 +52,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Time Series showing the frequency of Surge throughout the day
 - Average of surge multiplier based on the day of the week 
 
+<img src="/Images/4_5.png" width="350" >
 #### Statistical Analysis of Combined Weather: Ride Relationships
 - Heat map
 - Summary statistics of Ride relationships with pricing (IQR, Outliers, Quartiles)
@@ -58,6 +61,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 <img src="/Images/RevenueVsWeather.png" width="350" > <img src="/Images/PriceVsWeather.png" width="350" >
 
 # Final Summary 
+
 ***
 #### Calvin's Analysis/Write-up
 When extracting the data and merging the data frames we found that Uber has more rides than Lyft.  
