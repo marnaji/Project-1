@@ -31,6 +31,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Preferred Distance Travelled by each App
 - Average Rate of Rides on a given day of the week
 - Preference of Ride Type
+
 <img src="/Images/2_1.png" width="350" > <img src="/Images/2_2.png" width="350" >
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
@@ -40,6 +41,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Summary statistics of price relationship with Lyft and Uber
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
+
 <img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
   
 #### Deep Dive on Surge Effectiveness in ride revenue
@@ -54,8 +56,6 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 ***
 <img src="/Images/RevenueVsWeather" width="350" > <img src="/Images/PriceVsWeather.png" width="350" >
-
-### Study the relationship between price and the distance
 
 
 
