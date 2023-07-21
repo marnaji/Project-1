@@ -57,7 +57,10 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 <img src="/Images/LyftLinearReg.png" width="350" > <img src="/Images/UberLiearReg.png" width="350" >
 
-
+### Calvin's Analysis/Write-up
+When extracting the data and merging the data frames we found that Uber has more rides than Lyft.  
+People have a tendency to travel short distances with Uber and Lyft because majority rides between both apps tend to fit between the ranges of 0 miles to 4 miles. 
+It is rare to have the rides be beyond 4 miles. Although Uber has about 11 percent more rides, Lyft generates more revenue. This is most likely due to Lyft charging more per ride.
 
 
 #### Link to Datasets
