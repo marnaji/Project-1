@@ -33,6 +33,13 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Preference of Ride Type
 
 <img src="/Images/2_1.png" width="350" > <img src="/Images/2_2.png" width="350" >
+
+<img src="/Images/2_7.png" width="450" >
+
+<img src="/Images/2_3.png" width="350" > <img src="/Images/2_4.png" width="350" >
+
+<img src="/Images/2_9.png" width="350" > <img src="/Images/2_8.png" width="350" >
+
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
   
