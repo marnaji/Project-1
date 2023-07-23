@@ -66,7 +66,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Summary statistics of Ride relationships with pricing (IQR, Outliers, Quartiles)
 - ANOVA Testing
 
-<img src="/Images/RevenueVsWeather.png" width="350" > <img src="/Images/PriceVsWeather.png" width="350" >
+<img src="/Images/6_4.png" width="350" > <img src="/Images/6_3.png" width="350" >
 
 # Final Summary 
 
