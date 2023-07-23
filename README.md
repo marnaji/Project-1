@@ -42,7 +42,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 
 #### How are Car Rides affected by different Weather Conditions?
 - Relationships of Rides Affected by Rainfall, Wind Speed, and Cloudiness
-  
+<img src="/Images/3_6.png" width="300" >  
 <img src="/Images/3_1.png" width="300" > <img src="/Images/3_2.png" width="300" > 
 <img src="/Images/3_3.png" width="300" > <img src="/Images/3_4.png" width="300" >
 #### How is Price & Revenue affected by Distance Travelled/Weather? 
@@ -89,7 +89,7 @@ The analysis reveals that rainfall shows the most robust correlation with revenu
 #### Nivetha's Analysis/WriteUp
 In our analysis of weather relationships, we first observed that the preference for taking rideshare apps was more prevalent when there were very small amounts of rain or no rain at all. This is understandable. We also noticed that when there was rainfall of over 15mm, commuters took Uber or Lyft, while there were no rides between 7.5mm to 15mm. With this, we can theorize that either Boston only had rainfall extremes, or people just didn't prefer to take rideshare when it was raining moderately.
 
-
+While we saw that cloudiness and windspeed were pretty consistent in our time series, these weather conditions didn't affect rideshare as much. Possibly because there was not much-hindering visibility or driveability. We can make the assumption here that taking Uber or Lyft during bad weather is viable and a popular option. People still need to get where they're going! And above all, it seems the bigger preference is for Uber than Lyft.
 
 #### Pratik's Analysis/WriteUp
 
