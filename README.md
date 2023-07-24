@@ -50,6 +50,14 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
 
+<img src="/Images/5.2_DestinationCounts.jpg" width="300" > 
+<img src="/Images/5.2_LocationHeatmap.jpg" width="300" > 
+<img src="/Images/5.2_LocationScatterPlot.jpg" width="300" > 
+
+<img src="/Images/5.3_RideTypes.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeScatterPlot_1.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeScatterPlot_2.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeCaseStudies.jpg" width="300" > 
 
 <img src="/Images/5_Price($)_Pick_Up_Location.png" width="350" > <img src="/Images/5_Price($)_Destination.png" width="350" >
 <img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
