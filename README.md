@@ -50,6 +50,9 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
 
+<img src="/Images/5_Price($)_Pick_Up_Location.png" width="350" > <img src="/Images/5_Price($)_Destination.png" width="350" >
+<img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
+
 #### Location Ride Counts relationship to Location Revenue
 - Only Financial District and Northeastern University showed the direct correlation between Total Ride Counts and Total Revenue
 <img src="/Images/5.2_DestinationCounts.jpg" width="300" > 
@@ -65,9 +68,6 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 <img src="/Images/5.3_RideTypeScatterPlot_2.jpg" width="300" > 
 <img src="/Images/5.3_RideTypeCaseStudies.jpg" width="300" > 
 
-<img src="/Images/5_Price($)_Pick_Up_Location.png" width="350" > <img src="/Images/5_Price($)_Destination.png" width="350" >
-<img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
-  
 #### Deep Dive on Surge Effectiveness in ride revenue
 - Max Surge depending on the Day of the Week
 - Time Series showing the frequency of Surge throughout the day
