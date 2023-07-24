@@ -61,8 +61,10 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Ride Type Counts to Revenue Per Mile relationship is divergent
 - Ride Type Counts to Total Revenue relationship is divergent
 - Total Revenue to Revenue Per Mile relationship is correlated
-<img src="/Images/5.3_RideTypes.jpg" width="300" > <img src="/Images/5.3_RideTypeScatterPlot_1.jpg" width="300" > 
-<img src="/Images/5.3_RideTypeScatterPlot_2.jpg" width="300" > <img src="/Images/5.3_RideTypeCaseStudies.jpg" width="300" > 
+<img src="/Images/5.3_RideTypes.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeScatterPlot_1.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeScatterPlot_2.jpg" width="300" > 
+<img src="/Images/5.3_RideTypeCaseStudies.jpg" width="300" > 
 
 #### Deep Dive on Surge Effectiveness in ride revenue
 - Max Surge depending on the Day of the Week
