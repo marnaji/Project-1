@@ -104,7 +104,23 @@ Additional analysis on finding what time of the day gets more shared rides. We o
 
 #### Mike Analysis Writeup
 
-When comparing: RIDE TYPE COUNTS OVERALL, TOTAL REVENUE by RIDE TYPE, and MEAN REVENUE PER MILE by RIDE TYPE we notice interesting divergence in the trends. For instance, Lux Black XL is 10th in Ride Type Counts at 18579 but is 1st in Revenue per Mile at $14.82 per mile. On the other side of the coin, Lux Black is 13th in Ride Type Counts at 18458 but is 3rd in Revenue per Mile at $10.57 per mile. Also divergent, Uber XL is 1st in Ride Type Counts at 20197 but is 6th in Revenue per Mile at $7.16 per mile. As such, the difference between Ride Type Counts, Total Revenue by Ride Type, and Revenue per mile can be quite divergent.
+Comparing Pick Up and Destination Locations, only Financial District and Northeastern University showed the direct correlation between Total Ride Counts and Total Revenue. Many other Locations ranking high in the Total Revenue list did not have a correlating high Total Ride Count.
+
+Locations Total Revenue vs. Total Ride Counts:
+1- Boston University: $730135.0 // 9- Boston University: 41870 
+2- Financial District: $716308.45 // 1- Financial District: 42844 
+3- Fenway: $698492.5 // 12- Fenway: 41666
+4- Northeastern University: $694077.0 // 3- Northeastern University: 42214
+5- North Station: $635235.0 // 11- North Station: 41622 
+6- Theatre District: $624418.35 // 7- Theatre District: 41737 
+7- Back Bay: $619977.0 // 5- Back Bay: 41951 
+8- West End: $619902.85 // 8- West End: 41684 
+9- Beacon Hill: $617377.5 // 4- Beacon Hill: 41989 
+10- South Station: $585813.5 // 6- South Station: 41777 
+11- North End: $578567.0 // 10- North End: 41722 
+12- Haymarket Square: $546134.15 // 2- Haymarket Square: 42578 
+
+When comparing: Ride Type Counts Overall, Total Revenue by Ride Type, and Revenue Per Mile we notice interesting divergence in the trends. For instance, Lux Black XL is 10th in Ride Type Counts at 18579 but is 1st in Revenue per Mile at $14.82 per mile. On the other side of the coin, Lux Black is 13th in Ride Type Counts at 18458 but is 3rd in Revenue per Mile at $10.57 per mile. Also divergent, Uber XL is 1st in Ride Type Counts at 20197 but is 6th in Revenue per Mile at $7.16 per mile. As such, the difference between Ride Type Counts, Total Revenue by Ride Type, and Revenue per mile can be quite divergent. However, comparing Total-Revenue-by-Ride-Type to Revenue-Per-Mile directly confirms the correlating trend between those two variables.
 
 
 
