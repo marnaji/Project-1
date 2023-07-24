@@ -50,10 +50,16 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 - Mean price Vs. Day of the week
 - How pricing is governed between Uber and Lyft
 
+#### Location Ride Counts relationship to Location Revenue
+- Only Financial District and Northeastern University showed the direct correlation between Total Ride Counts and Total Revenue
 <img src="/Images/5.2_DestinationCounts.jpg" width="300" > 
 <img src="/Images/5.2_LocationHeatmap.jpg" width="300" > 
 <img src="/Images/5.2_LocationScatterPlot.jpg" width="300" > 
 
+#### Analyzing Ride Type Overall Ride Counts, Total Revenue by Ride Type, Ride Type Revenue Per Mile
+- Ride Type Counts to Revenue Per Mile relationship is divergent
+- Ride Type Counts to Total Revenue relationship is divergent
+- Total Revenue to Revenue Per Mile relationship is correlated
 <img src="/Images/5.3_RideTypes.jpg" width="300" > 
 <img src="/Images/5.3_RideTypeScatterPlot_1.jpg" width="300" > 
 <img src="/Images/5.3_RideTypeScatterPlot_2.jpg" width="300" > 
