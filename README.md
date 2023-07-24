@@ -15,6 +15,8 @@
 *** 
 Uber and Lyft's ride prices are not constant like public transport. They are greatly affected by the demand and supply of rides at a given time. Our analysis aims to understand the relationships of rideshare pricing when compared against external factors like time of day, day of the week, and possibly even weather. The dataset we are analyzing covers simulated rides between a few hot locations in Boston, MA taken in the span of about a week in Nov/Dec of 2018.
 
+Uber Vs Lyft - Link to deck (here)[https://docs.google.com/presentation/d/1LOpAZVQVBm0EnRvw6gPpZd55W_29vNf1ih15XS3dVAw/edit#slide=id.p]
+
 
 ### Research Questions to Answer - 
 ***
@@ -45,6 +47,7 @@ Uber and Lyft's ride prices are not constant like public transport. They are gre
 <img src="/Images/3_6.png" width="300" >  
 <img src="/Images/3_1.png" width="300" > <img src="/Images/3_2.png" width="300" > 
 <img src="/Images/3_3.png" width="300" > <img src="/Images/3_4.png" width="300" >
+
 #### How is Price & Revenue affected by Distance Travelled/Weather? 
 - Summary statistics of price relationship with Lyft and Uber
 - Mean price Vs. Day of the week
