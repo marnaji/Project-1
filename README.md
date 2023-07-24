@@ -109,6 +109,7 @@ Comparing Pick Up and Destination Locations, only Financial District and Northea
 Locations Total Revenue vs. Total Ride Counts:
 
 1- Boston University: $730135.0 // 9- Boston University: 41870 
+
 2- Financial District: $716308.45 // 1- Financial District: 42844 
 3- Fenway: $698492.5 // 12- Fenway: 41666
 4- Northeastern University: $694077.0 // 3- Northeastern University: 42214
