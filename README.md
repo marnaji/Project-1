@@ -54,7 +54,7 @@ Uber Vs Lyft - Link to deck [here](https://docs.google.com/presentation/d/1LOpAZ
 - How pricing is governed between Uber and Lyft
 
 <img src="/Images/5_Price($)_Pick_Up_Location.png" width="350" > <img src="/Images/5_Price($)_Destination.png" width="350" >
-<img src="/Images/PriceLineRegLyft.png" width="350" > <img src="/Images/PriceLineRegUbr.png" width="350" >
+<img src="/Images/4_2.png" width="350" > <img src="/Images/4_3.png" width="350" >
 
 #### Location Ride Counts relationship to Location Revenue
 - Only Financial District and Northeastern University showed the direct correlation between Total Ride Counts and Total Revenue
